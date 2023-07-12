@@ -1,0 +1,10 @@
+﻿*.bin
+/src/TrainTicketMachine/.vs/TrainTicketMachine
+/src/TrainTicketMachine/bin/Debug/net7.0
+/src/TrainTicketMachine/obj
+/src/TrainTicketMachine.Domain/bin/Debug/net7.0
+/src/TrainTicketMachine.Domain/obj
+/src/TrainTicketMachine.Infrastructure/bin/Debug/net7.0
+/src/TrainTicketMachine.Infrastructure/obj
+/tests/TrainTicketMachine.Infrastructure.Tests/bin/Debug/net7.0
+/tests/TrainTicketMachine.Infrastructure.Tests/obj
